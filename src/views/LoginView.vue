@@ -1,10 +1,10 @@
 <template>
-  <div>홈</div>
+  <div>로그인</div>
 </template>
 
 <script>
 export default {
-  name: 'HomeView',
+  name: 'LoginView',
 
   components: {}
 }
